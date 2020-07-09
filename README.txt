@@ -1,5 +1,5 @@
-Gus Brigantino
-gusbrig97@gmail.com
+Edgar Ramirez-Villa
+eramirezvilla@sandiego.edu
 
 valFile.cpp, BLEService.cpp and gui.py
 
